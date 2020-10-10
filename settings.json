@@ -1,0 +1,59 @@
+// VSCODE Settings
+{
+	"window.zoomLevel": 0,
+	"editor.minimap.enabled": false,
+	"breadcrumbs.enabled": true,
+	"workbench.startupEditor": "newUntitledFile",
+	"terminal.integrated.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"eslint.alwaysShowStatus": true,
+	"prettier.requireConfig": false,
+	"prettier.disableLanguages": [],
+	"workbench.settings.useSplitJSON": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"vue-html": "html",
+		"vue": "html",
+		"erb": "html"
+	},
+	"editor.scrollBeyondLastLine": false,
+	"emmet.triggerExpansionOnTab": true,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"editor.detectIndentation": true,
+	"editor.fontSize": 14,
+	"editor.lineHeight": 26,
+	"editor.cursorStyle": "line",
+	"editor.cursorBlinking": "blink",
+	"terminal.integrated.shell.osx": "/bin/zsh",
+	"explorer.autoReveal": false,
+	"workbench.colorCustomizations": {},
+	"workbench.tree.indent": 16,
+	"workbench.iconTheme": "vscode-great-icons",
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"prettier.singleQuote": true,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"prettier.trailingComma": "none",
+	"files.associations": {
+		".blade.php": "html"
+	},
+	"editor.fontLigatures": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"vetur.format.defaultFormatter.html": "prettier",
+	"vetur.format.options.tabSize": 4,
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"blade.format.enable": true
+}
